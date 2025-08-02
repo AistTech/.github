@@ -48,4 +48,5 @@ MOEX Wrapper
 
 Веб-сайт: aisttech.com
 
-Для связи: aisttechco@proton.me
+Для связи: aisttechco@gmail.com
+
